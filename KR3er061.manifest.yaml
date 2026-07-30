@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3er061_001.yaml, hash: 'sha256:bf6cc3de2863191695b8f4c336c9f09d7d93f2035781620e0954bc648a5ba132'}
+  - {seq: 1, filename: KR3er061_001.yaml, hash: 'sha256:74d8451660ef5cf7418d97355b396c8c8e968b45124db0a719bb8077487de861'}
   - {seq: 2, filename: KR3er061_002.yaml, hash: 'sha256:3483c5d491e935ca8dc349d34b4dbd94ee4faa2a2bbc81d7cd9d5f82bf324209'}
   - {seq: 3, filename: KR3er061_003.yaml, hash: 'sha256:b30e3413aeb5d615e0eabc08dcc897666f4ff38c80c3b188e7f21845aeeaf418'}
   - {seq: 4, filename: KR3er061_004.yaml, hash: 'sha256:e7f442716fe5cdbf6556e3f2c2ed78d83721c7bb4da97b4a3b3130dd40f7ba26'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 10, filename: KR3er061_010.yaml, hash: 'sha256:80c8e4b133c9c4aaf7916159fdc53d264db2cb9ef9a35b8f29fe62144dfa5f24'}
   - {seq: 11, filename: KR3er061_011.yaml, hash: 'sha256:9e4c20cf1b434425dc808b35bb9af5ed80a3f491bedd203ca2d51f7893ddb0a0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3er061_001.markers.yaml, hash: 'sha256:b04985c3b1b42e95b9f28ec27b82d1a522e6c74f86e7a52438f60bb4dc351543'}
+  - {seq: 1, role: markers, filename: assets/KR3er061_001.markers.yaml, hash: 'sha256:88b2e5c2ef540ffc5478ac009a9ed12ea5f0f6d99975b6aee4dfd20c40d28334'}
   - {seq: 2, role: markers, filename: assets/KR3er061_002.markers.yaml, hash: 'sha256:434b4596b1e71d669d63e34b20f83e03301f3711a3a70a99b3d862a98b32307b'}
   - {seq: 3, role: markers, filename: assets/KR3er061_003.markers.yaml, hash: 'sha256:bc4e3190646bc019ccc92d8d57de1c11d76bca258aa68830fd1eaa437c5dc03e'}
   - {seq: 4, role: markers, filename: assets/KR3er061_004.markers.yaml, hash: 'sha256:3bab2641a754356e30e64337274d4d0ff4cf50c9559c4301c68c8106e6d6d1d0'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er061_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 398
   label: 序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er061_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 398
     - 988
   label: 序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er061_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 988
     - 1630
   label: 序
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er061_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1630
     - 2023
   label: 重鋟類證治裁序
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er061_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2023
     - 2441
   label: 序
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3er061_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 2441
     - 3129
   label: 自序
@@ -106,8 +106,8 @@ table_of_contents:
     marker_id: KR3er061_jc_000-d8.h1s1
     span:
     - body
-    - 0
-    - 1145
+    - 3129
+    - 4274
   label: 皇清例授文林郎先考羲桐府君傳略
   type: section
   level: 1
@@ -116,8 +116,8 @@ table_of_contents:
     marker_id: KR3er061_jc_000-d9.h1s1
     span:
     - body
-    - 1145
-    - 1597
+    - 4274
+    - 4726
   label: 凡例
   type: section
   level: 1
@@ -4061,7 +4061,7 @@ table_of_contents:
   label: 重鋟本跋
   type: section
   level: 1
-hash: sha256:0e8ae037f08d18cc16b0bd853c6ed8389d8d2dd098eb0efe632459bbbc586a65
+hash: sha256:e3699bc7af478857123d8e7bb1ff3a4c5aaa281b70c1831d34d432a0dee4a866
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
